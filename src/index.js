@@ -54,15 +54,15 @@ import Layout from '../src/Examen2/Layout';
 importamos nuestro App en ReactDom
 ReactDOM.render(<Layout/>, document.getElementById('root'));*/
 
-/*importamos nuestro login
-import Login from '../src/containers/Login';
+//importamos nuestro login
+//import Login from '../src/containers/Login';
 //importamos nuestro login en ReactDom
-ReactDOM.render(<Login/>, document.getElementById('root'));*/
+//ReactDOM.render(<Login/>, document.getElementById('root'));
 
-/*importamos nuestro Registro
-import Register from '../src/containers/Register';
+//importamos nuestro Registro
+//import Register from '../src/containers/Register';
 //importamos nuestro Registro en ReactDom
-ReactDOM.render(<Register/>, document.getElementById('root'));*/
+//ReactDOM.render(<Register/>, document.getElementById('root'));
 
 //importamos nuestro components stateful
 /* 3/3 ReactDOM.render(<Stateful/>, document.getElementById('root'));*/

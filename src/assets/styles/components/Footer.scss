@@ -1,8 +1,10 @@
+@import "./Var.scss";
+
 .footer {
 
     align-items: center;
 
-    background-color: #8f57fd;
+    background-color:black;
 
     display: flex;
 
@@ -15,7 +17,7 @@
 
 .footer a {
 
-    color: white;
+    color: rgba(206, 12, 12, 0.89);
 
     cursor: pointer;
 

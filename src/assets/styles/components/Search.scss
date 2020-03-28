@@ -1,12 +1,13 @@
+@import "./Var.scss";
 .main__title {
-    color: white;
+    color:black;
     font-size: 25px;
 }
 .input {
-    background-color: rgba(255, 255, 255, 0.1);
-    border: 2px solid white;
+    background-color: rgba(77, 26, 26, 0.89);
+    border: 2px solid black;
     border-radius: 25px;
-    color: white;
+    color: rgba(206, 12, 12, 0.89);
     font-family: 'Muli', sans-serif;
     font-size: 16px;
     height: 50px;
@@ -17,5 +18,5 @@
 }
 
 ::placeholder {
-    color: white;
+    color: rgba(27, 2, 2, 0.89);
 }
